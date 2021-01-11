@@ -17,4 +17,4 @@
 
 # Note!
     alat ini dibuat hanya untuk bersenang-senang :)
-    Coded byy zeerx7!
+    Coded by zeerx7!
