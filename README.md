@@ -11,7 +11,7 @@
     python2 run.py
 
 # Persyaratan
-    python2
+    python V2*
     install selenium (python)
     anda harus memiliki webdriver dan setting nya pada script "run.py" pada line ke "7"
     silahkan download sendiri webdriver sesuai browser yang kamu gunakan! (Di Google)
